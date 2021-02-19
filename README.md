@@ -1,4 +1,7 @@
 # Spotify
+
+> Miembros del equipo: Unai Mendiondo, Mireya Quintana y Haizea Rodriguez
+>
 Un pequeño proyecto para la asignatura de Big Data &amp; Business Intelligence. 
 Se trata de un  estudio de datos musicales sacados de la plataforma de streaming, Spotify.  
 El objetivo es hacer un análisis sobre las tendencias actuales, para poder identificar qué canciones son más propensas a triunfar y qué canciones están destinadas a fracasar.
