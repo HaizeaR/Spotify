@@ -7,7 +7,7 @@ PREGUNTAS
 ----------------
 > ¿Qué canciones son las que más gustan y que patrón comparten?
 > 
-> ¿Artistas más populares? 
+> ¿Quiénes son los artistas más populares? 
 > 
 > ¿Qué canciones clásicas/antiguas siguen siendo populares? 
 > 
