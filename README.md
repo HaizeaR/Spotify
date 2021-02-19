@@ -5,8 +5,8 @@ El objetivo es hacer un análisis sobre las tendencias actuales, para poder iden
 
 PREGUNTAS 
 ----------------
-> ¿Qué canciones son las que más gustan y que patrón comparten?
-> ¿Artistas más populares? 
+> ¿Qué canciones son las que más gustan y que patrón comparten?\n
+> ¿Artistas más populares? \n
 > ¿Qué canciones clásicas/antiguas siguen siendo populares? 
 > ¿Si una palabra aparece en el título hace que la canción sea más popular?
 > ¿Las canciones con títulos largos o cortos son populares?
